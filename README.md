@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Gloria
 - 👀 I’m interested in Full Stack Web Development
 - 🌱 I’m currently learning CSS & JavaScript, and will soon get to learning how to create Web Applications with React
-- 💞️ I’m looking to collaborate on any beginner-to-intermediate Frontend projects so I can grow my skills
+- 💞️ I’m looking to collaborate on any beginner-to-intermediate frontend or fullstack projects so I can grow my skills
 - 📫 How to reach me: gloedem@gmail.com
 
 <!---
