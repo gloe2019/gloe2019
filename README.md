@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Gloria
-- 👀 I’m interested in Full Stack Web Development
+- 👀 I’m a Full Stack Developer - in training
 - 🌱 I’m currently learning how to create Web Applications with React. (see - [Scheduler](https://github.com/gloe2019/scheduler))
 - 💞️ I’m looking to collaborate on any intermediate frontend or fullstack projects so I can grow my skills
 - 📫 How to reach me: gloedem@gmail.com
